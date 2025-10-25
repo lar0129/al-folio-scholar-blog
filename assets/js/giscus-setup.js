@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "lar0129/al-folio-scholar-blog",
+    "data-repo": "lar0129/scholar",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
